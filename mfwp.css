@@ -1,0 +1,40 @@
+body {
+    background-color: grey;
+}
+
+h1 {
+    font-size: 100px;
+    font-family: Arial, sans-serif;
+    color: red;
+}
+
+h2 {
+    font-size: 90px;
+    font-family: Georgia, sans-serif;
+    color: orange;
+}
+
+h3 {
+    font-size: 80px;
+    font-family: Georgia, sans-serif;
+    color: yellow;
+}
+
+h4 {
+    font-size: 70px;
+    font-family: Georgia, sans-serif;
+    color: green;
+}
+
+h5 {
+    font-size: 60px;
+    font-family: Georgia, sans-serif;
+    color: blue;
+}
+
+footer {
+    font-size: 50px;
+    font-family: Georgia, sans-serif;
+    color: purple;
+}
+
